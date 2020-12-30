@@ -13,6 +13,10 @@ body {
     background: #d0d0d0;
 }
 
+body a {
+    text-decoration: none;
+}
+
 #resume {
     margin: 0 auto;
     padding: 0.5in;
@@ -106,10 +110,9 @@ body {
     padding: 10%;
 }
 
-.social a {
+.social p {
     align-self: center;
     font-size: 1.2rem;
-    text-decoration: none;
     color: #200a24;
 }
 
@@ -145,7 +148,6 @@ body {
 }
 
 .sidebar-list a {
-    text-decoration: none;
     color: white;
 }
 
