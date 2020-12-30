@@ -152,7 +152,7 @@ body {
 .sidebar-link {
     display: grid;
     width: 100%;
-    gap: 0 5%;
+    column-gap: 5%;
 }
 
 .span-2 {
@@ -196,6 +196,15 @@ body {
     grid-template-columns: repeat(2, 1fr);
     gap: 5%;
     justify-items: center;
+}
+
+#skill-icons {
+    width: 100%;
+    grid-column: 1 / span 2;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    column-gap: 5%;
+    place-items: center;
 }
 
 .light {
