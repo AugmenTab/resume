@@ -183,7 +183,7 @@ body a {
     font-size: 1.45rem;
 }
 
-#skills {
+.icon-section {
     display: grid;
     grid-template-rows: auto 1fr;
     width: 100%;
@@ -191,7 +191,7 @@ body a {
     gap: 7.5%;
 }
 
-#skill-list {
+.skill-list {
     list-style-type: none;
     width: 85%;
     display: grid;
@@ -200,7 +200,7 @@ body a {
     justify-items: center;
 }
 
-#skill-icons {
+.skill-icons {
     width: 100%;
     grid-column: 1 / span 2;
     display: grid;
