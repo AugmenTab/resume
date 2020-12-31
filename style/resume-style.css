@@ -130,7 +130,7 @@ body a {
     background: radial-gradient(circle, rgba(32,10,36,0.55) 0%, rgba(32,10,36,0.55) 75%, rgba(255,255,255,0) 100%);
     z-index: 100;
     display: grid;
-    grid-template-rows: repeat(3, auto);
+    grid-template-rows: repeat(5, auto);
     justify-items: center;
     align-items: start;
 }
@@ -144,7 +144,7 @@ body a {
     width: 85%;
     display: grid;
     place-items: center;
-    gap: 7.5%;
+    gap: 0.5rem;
 }
 
 .sidebar-list a {
@@ -188,7 +188,7 @@ body a {
     grid-template-rows: auto 1fr;
     width: 100%;
     justify-items: center;
-    gap: 7.5%;
+    gap: 0.5rem;
 }
 
 .skill-list {
@@ -196,7 +196,7 @@ body a {
     width: 85%;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 5%;
+    gap: 0.75rem;
     justify-items: center;
 }
 
