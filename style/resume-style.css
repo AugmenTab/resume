@@ -120,6 +120,7 @@ body a {
     width: 100%;
     box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
     background-image: url('../img/sidebar.jpg');
+    border-radius: 2rem;
 }
 
 #sidebar-content {
@@ -214,4 +215,56 @@ body a {
 
 .dark {
     color: #200a24;
+}
+
+@media print {
+    #resume {
+        background: none;
+    }
+
+    #header {
+        border-bottom: 2px solid black;
+    }
+
+    #name {
+        color: black;
+    }
+
+    .icon {
+        color: black !important;
+    }
+
+    .social p {
+        color: black !important;
+    }
+
+    #sidebar {
+        background-image: none;
+        box-shadow: none;
+        border: 2px solid black;
+    }
+    
+    #sidebar a {
+        color: black;
+    }
+
+    #sidebar-content {
+        background: none;
+    }
+
+    #sidebar-list a {
+        color: black;
+    }
+
+    #sidebar-link a {
+        color: black;
+    }
+
+    .light {
+        color: black;
+    }
+
+    .dark {
+        color: black;
+    }
 }
