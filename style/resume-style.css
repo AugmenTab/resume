@@ -52,6 +52,7 @@ body a {
     justify-self: end;
     align-self: start;
     color: #f8f8ff;
+    display: none;
 }
 
 #name {
