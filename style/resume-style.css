@@ -10,7 +10,7 @@
 }
 
 body {
-    background: #d0d0d0;
+    background: none;
 }
 
 body a {
@@ -18,7 +18,7 @@ body a {
 }
 
 #resume {
-    margin: 0 auto;
+    margin: 0;
     padding: 0.5in;
     width: 8.5in;
     height: 11in;
@@ -52,7 +52,6 @@ body a {
     justify-self: end;
     align-self: start;
     color: #f8f8ff;
-    display: none;
 }
 
 #name {
