@@ -240,11 +240,6 @@ body a {
 }
 
 @media print {
-    * {
-        font-family: Garamond, sans-serif;
-        font-size: 12pt;
-    }
-
     html {
         height: 11in;
         width: 8.5in;
