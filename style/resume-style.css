@@ -55,6 +55,11 @@ body a {
     color: #f8f8ff;
 }
 
+#print-icon:hover {
+    color: #d0d0d0;
+    cursor: pointer;
+}
+
 #name {
     color: #f8f8ff;
     font-variant: small-caps;

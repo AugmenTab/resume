@@ -1,5 +1,5 @@
 const delay = 4000;
-const words = ['Python', 'Android', 'Full Stack', 'React', 'Elm', 'Java'];
+const words = ['Software', 'Android', 'Java', 'Python', 'React', 'Elm', 'Full Stack'];
 
 function animateTitle() {
   let count = 0;
@@ -17,5 +17,11 @@ function insertWord(current, count) {
   }, 600);
   element.classList.add('visible');
 }
+
+function handlePrint() {
+  window.print();
+}
+
+document.getElementById('print-icon').addEventListener('click', handlePrint);
 
 animateTitle();
