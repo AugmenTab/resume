@@ -320,11 +320,14 @@ body a {
 
 /* Print Settings */
 @media print {
+    * {
+        font-family: 'Times New Roman';
+    }
+
     html {
         height: 11in;
         width: 8.5in;
         overflow: hidden;
-        font-size: 11.5pt;
     }
 
     body {
@@ -337,14 +340,9 @@ body a {
         width: 100%;
     }
 
-    #header {
-        height: 12vh;
-    }
-
     #main-content {
         border-top: 2px solid black;
         padding-top: 2rem;
-        height: 78vh;
     }
 
     .print {
