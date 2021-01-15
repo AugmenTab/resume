@@ -55,7 +55,7 @@ body a {
     color: #f8f8ff;
 }
 
-#print-icon:hover {
+.hoverable:hover * {
     color: #d0d0d0;
     cursor: pointer;
 }
