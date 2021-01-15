@@ -409,6 +409,10 @@ body a {
         color: black;
     }
 
+    .custom-icon {
+        filter: none;
+    }
+
     .light {
         color: black;
     }
