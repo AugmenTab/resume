@@ -38,10 +38,11 @@ body a {
     justify-content: center;
 }
 
-.logo {
+#logo {
     grid-column-start: 2;
     height: 4rem;
     justify-self: center;
+    filter: invert(89%) sepia(6%) saturate(0%) hue-rotate(211deg) brightness(90%) contrast(100%);
 }
 
 .print {
@@ -356,6 +357,10 @@ body a {
     #main-content {
         border-top: 2px solid black;
         padding-top: 2rem;
+    }
+
+    #logo {
+        filter: none;
     }
 
     .print {
