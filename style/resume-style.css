@@ -158,7 +158,7 @@ body a {
 
 #socials {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     width: 100%;
 }
 
@@ -169,13 +169,21 @@ body a {
 .social {
     display: grid;
     grid-template-columns: repeat(2, auto);
-    align-content: end;
+    align-content: center;
 }
 
 .icon {
     color: #200a24;
     justify-self: end;
     padding: 10%;
+}
+
+.social-custom-icon {
+    height: 2.75rem;
+}
+
+.hoverable:hover .social-custom-icon {
+    filter: invert(89%) sepia(6%) saturate(0%) hue-rotate(211deg) brightness(90%) contrast(100%);
 }
 
 .social p {
