@@ -1,5 +1,23 @@
 const delay = 4000;
-const words = ['Software', 'Android', 'Java', 'Python', 'React', 'Elm', 'Full Stack'];
+const words = [
+  'Software', 
+  // 'Game',
+  // 'Mobile',
+  'Android', 
+  'Java', 
+  'Python', 
+  'C#', 
+  'Elm', 
+  // 'Blockchain', 
+  // 'Haskell',
+  // 'Clojure',
+  // 'Solidity',
+  // 'Vyper',
+  // 'Rust',
+  // 'Go',
+  // 'F#',
+  'Full Stack'
+];
 
 function animateTitle() {
   let count = 0;
