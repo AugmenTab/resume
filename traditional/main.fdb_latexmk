@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber main"] 1616101713 "main.bcf" "main.bbl" "main" 1616102090
-  "main.bcf" 1616101998 106499 e0222e8a38da089b49d9ba4742ef8af8 "pdflatex"
+["biber main"] 1616103299 "main.bcf" "main.bbl" "main" 1616103352
+  "main.bcf" 1616103352 106499 e0222e8a38da089b49d9ba4742ef8af8 "pdflatex"
   (generated)
-  "main.blg"
   "main.bbl"
-["pdflatex"] 1616101993 "c:/Users/augme/OneDrive/Documents/Code/resume/traditional/main.tex" "c:/Users/augme/OneDrive/Documents/Code/resume/traditional/main.pdf" "main" 1616102090
+  "main.blg"
+["pdflatex"] 1616103346 "c:/Users/augme/OneDrive/Documents/Code/resume/traditional/main.tex" "c:/Users/augme/OneDrive/Documents/Code/resume/traditional/main.pdf" "main" 1616103352
   "C:/Users/augme/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1616025832 9407463 63fcbbb4ece83bc8b1217e47024d87d5 ""
   "C:/Users/augme/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1616089285 155501 69c64e18682da23b3f73def6a45c9d78 ""
   "C:/Users/augme/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463869852 1687 f004baecce60175c6453d0e3f808cf20 ""
@@ -195,20 +195,20 @@
   "C:/Users/augme/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1463135581 57049 34128738f682d033422ca125f82e5d62 ""
   "C:/Users/augme/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1606302286 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "altacv.cls" 1616088938 9463 27294445c51cefcf502f78e1c15192f3 ""
-  "c:/Users/augme/OneDrive/Documents/Code/resume/traditional/main.aux" 1616101998 1162 8097e4549c715360e73220b5d084f16a ""
-  "c:/Users/augme/OneDrive/Documents/Code/resume/traditional/main.tex" 1616101992 5321 7c8450e3191834019e82fc537c5a11dd ""
-  "main.aux" 1616101998 1162 8097e4549c715360e73220b5d084f16a "pdflatex"
-  "main.bbl" 1616101715 486 f7f239c736cf01ac6ce7bd829f9b3c7b "biber main"
-  "main.out" 1616101998 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1616101998 2307 8845b0ade2d45e62d45995dec6ec4831 "pdflatex"
-  "main.tex" 1616101992 5321 7c8450e3191834019e82fc537c5a11dd ""
+  "c:/Users/augme/OneDrive/Documents/Code/resume/traditional/main.aux" 1616103352 1162 8097e4549c715360e73220b5d084f16a ""
+  "c:/Users/augme/OneDrive/Documents/Code/resume/traditional/main.tex" 1616103345 5331 39484f120c68216925e1eb10028163b8 ""
+  "main.aux" 1616103352 1162 8097e4549c715360e73220b5d084f16a "pdflatex"
+  "main.bbl" 1616103301 486 f7f239c736cf01ac6ce7bd829f9b3c7b "biber main"
+  "main.out" 1616103351 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1616103352 2307 8845b0ade2d45e62d45995dec6ec4831 "pdflatex"
+  "main.tex" 1616103345 5331 39484f120c68216925e1eb10028163b8 ""
   "page1sidebar.tex" 1616101127 1311 1ba82b8c4c4e2377b934618b7a641032 ""
   (generated)
   "c:/Users/augme/OneDrive/Documents/Code/resume/traditional/main.log"
-  "main.log"
+  "main.pdf"
   "main.bcf"
-  "main.out"
   "main.run.xml"
   "main.aux"
+  "main.log"
+  "main.out"
   "c:/Users/augme/OneDrive/Documents/Code/resume/traditional/main.pdf"
-  "main.pdf"
