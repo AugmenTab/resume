@@ -9,6 +9,7 @@ const words = [
   'C#', 
   'Elm', 
   // 'Blockchain', 
+  // 'Machine Learning',
   // 'Haskell',
   // 'Clojure',
   // 'Solidity',
@@ -16,6 +17,11 @@ const words = [
   // 'Rust',
   // 'Go',
   // 'F#',
+  // 'Dart',
+  // 'Prolog',
+  // 'Dyalog APL',
+  // 'Smalltalk',
+  // 'Elixir',
   'Full Stack'
 ];
 
@@ -40,6 +46,11 @@ function handlePrint() {
   window.print();
 }
 
+function handleResume() {
+  window.location.href="traditional/main.pdf";
+}
+
 document.getElementById('print-icon').addEventListener('click', handlePrint);
+document.getElementById('trad-resume-icon').addEventListener('click', handleResume);
 
 animateTitle();

@@ -49,7 +49,7 @@ body a {
     display: none;
 }
 
-#print-icon {
+.top-icon {
     grid-column-start: 3;
     justify-self: end;
     align-self: start;
