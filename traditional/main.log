@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.17)  18 MAR 2021 15:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.17)  19 MAR 2021 11:32
 entering extended mode
 **c:/Users/augme/OneDrive/Documents/Code/resume/traditional/main.tex
 (c:/Users/augme/OneDrive/Documents/Code/resume/traditional/main.tex
@@ -1276,8 +1276,10 @@ File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 54.
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <6> on input line 54.
 )
-Overfull \hbox (2.48492pt too wide) in paragraph at lines 64--102
+Overfull \hbox (2.48492pt too wide) in paragraph at lines 66--102
  [] 
  []
 
@@ -1293,17 +1295,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31777 strings out of 479334
- 623807 string characters out of 2857084
+ 31796 strings out of 479334
+ 624001 string characters out of 2857084
  1374736 words of memory out of 3000000
- 48742 multiletter control sequences out of 15000+200000
- 649864 words of font info for 54 fonts, out of 3000000 for 9000
+ 48753 multiletter control sequences out of 15000+200000
+ 652749 words of font info for 64 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,9n,130p,1207b,808s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/augme/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_rt66h3.enc}{C:/Users/augme/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_cl4kdn.enc}{C:/Users/augme/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{C:/Users/augme/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<C:/Users/augme/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/augme/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Bold.pfb><C:/Users/augme/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on c:/Users\augme\OneDrive\Documents\Code\resume\traditional\main.pdf (1 page, 92907 bytes).
+Output written on c:/Users\augme\OneDrive\Documents\Code\resume\traditional\main.pdf (1 page, 93617 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
+ 41 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
