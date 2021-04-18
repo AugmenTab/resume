@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.17)  19 MAR 2021 11:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.17)  18 APR 2021 13:24
 entering extended mode
 **c:/Users/augme/OneDrive/Documents/Code/resume/traditional/main.tex
 (c:/Users/augme/OneDrive/Documents/Code/resume/traditional/main.tex
@@ -1240,29 +1240,29 @@ LaTeX Info: Redefining \nameref on input line 73.
 \openout7 = `main.out'.
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 92.
+(Font)              scaled to size 24.88pt on input line 94.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 92.
+(Font)              scaled to size 24.88pt on input line 94.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 92.
+(Font)              scaled to size 14.4pt on input line 94.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 92.
+(Font)              scaled to size 14.4pt on input line 94.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 92.
+(Font)              scaled to size 10.0pt on input line 94.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 92.
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 92.
+(Font)              scaled to size 10.0pt on input line 94.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 94.
  (C:\Users\augme\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-LaTeX Font Info:    Trying to load font information for U+fontawesomeone on input line 92.
+LaTeX Font Info:    Trying to load font information for U+fontawesomeone on input line 94.
  (C:\Users\augme\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 92.
+(Font)              <7> on input line 94.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 92.
+(Font)              <5> on input line 94.
  (c:/Users\augme\OneDrive\Documents\Code\resume\traditional\page1sidebar.tex
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 20.74pt on input line 5.
@@ -1279,12 +1279,12 @@ LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <6> on input line 54.
 )
-Overfull \hbox (2.48492pt too wide) in paragraph at lines 66--102
+Overfull \hbox (2.48492pt too wide) in paragraph at lines 66--104
  [] 
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 104.
+(Font)              scaled to size 12.0pt on input line 106.
 [1
 
 {C:/Users/augme/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (c:/Users\augme\OneDrive\Documents\Code\resume\traditional\main.aux)
